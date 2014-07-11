@@ -1,0 +1,251 @@
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T10:34:38.802Z"}
+{"level":"error","message":"Internal error(500): undefined","timestamp":"2014-06-17T10:35:27.072Z"}
+{"level":"error","message":"Internal error(500): undefined","timestamp":"2014-06-17T10:35:27.177Z"}
+{"level":"error","message":"Internal error(500): undefined","timestamp":"2014-06-17T10:35:27.234Z"}
+{"level":"error","message":"Internal error(500): undefined","timestamp":"2014-06-17T10:35:27.238Z"}
+{"level":"error","message":"Internal error(500): undefined","timestamp":"2014-06-17T10:35:27.239Z"}
+{"level":"error","message":"Internal error(500): undefined","timestamp":"2014-06-17T10:35:45.229Z"}
+{"level":"error","message":"Internal error(500): undefined","timestamp":"2014-06-17T10:35:45.323Z"}
+{"level":"error","message":"Internal error(500): undefined","timestamp":"2014-06-17T10:35:45.324Z"}
+{"level":"error","message":"Internal error(500): undefined","timestamp":"2014-06-17T10:35:45.326Z"}
+{"level":"error","message":"Internal error(500): undefined","timestamp":"2014-06-17T10:35:45.326Z"}
+{"level":"error","message":"Internal error(500): undefined","timestamp":"2014-06-17T10:35:53.644Z"}
+{"level":"error","message":"Internal error(500): undefined","timestamp":"2014-06-17T10:35:53.723Z"}
+{"level":"error","message":"Internal error(500): undefined","timestamp":"2014-06-17T10:35:53.725Z"}
+{"level":"error","message":"Internal error(500): undefined","timestamp":"2014-06-17T10:35:53.725Z"}
+{"level":"error","message":"Internal error(500): undefined","timestamp":"2014-06-17T10:35:53.727Z"}
+{"level":"error","message":"Internal error(500): undefined","timestamp":"2014-06-17T10:36:06.183Z"}
+{"level":"error","message":"Internal error(500): undefined","timestamp":"2014-06-17T10:36:06.267Z"}
+{"level":"error","message":"Internal error(500): undefined","timestamp":"2014-06-17T10:36:06.269Z"}
+{"level":"error","message":"Internal error(500): undefined","timestamp":"2014-06-17T10:36:06.270Z"}
+{"level":"error","message":"Internal error(500): undefined","timestamp":"2014-06-17T10:36:06.271Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T11:15:25.664Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T11:16:15.222Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T11:17:36.941Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T11:17:58.866Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T11:19:14.152Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T11:19:48.434Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T11:23:16.078Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T11:24:32.080Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T11:32:44.192Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T11:35:48.509Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T11:38:20.648Z"}
+{"level":"error","message":"Internal error(500): undefined","timestamp":"2014-06-17T11:38:24.147Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T11:38:53.638Z"}
+{"level":"error","message":"Internal error(500): undefined","timestamp":"2014-06-17T11:38:55.512Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T11:41:12.900Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T11:56:52.970Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T11:57:56.268Z"}
+{"level":"error","message":"404","timestamp":"2014-06-17T11:57:58.714Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T12:03:00.045Z"}
+{"level":"error","message":"404","timestamp":"2014-06-17T12:03:02.957Z"}
+{"level":"error","message":"404","timestamp":"2014-06-17T12:03:03.077Z"}
+{"level":"error","message":"404","timestamp":"2014-06-17T12:03:03.191Z"}
+{"level":"error","message":"404","timestamp":"2014-06-17T12:03:03.235Z"}
+{"level":"error","message":"404","timestamp":"2014-06-17T12:03:03.239Z"}
+{"level":"error","message":"404","timestamp":"2014-06-17T12:03:03.241Z"}
+{"level":"error","message":"404","timestamp":"2014-06-17T12:03:03.241Z"}
+{"level":"error","message":"404","timestamp":"2014-06-17T12:03:03.252Z"}
+{"level":"error","message":"404","timestamp":"2014-06-17T12:03:03.253Z"}
+{"level":"error","message":"404","timestamp":"2014-06-17T12:03:03.292Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T12:04:01.875Z"}
+{"level":"error","message":"404","timestamp":"2014-06-17T12:04:04.487Z"}
+{"level":"error","message":"404","timestamp":"2014-06-17T12:04:14.657Z"}
+{"level":"error","message":"404","timestamp":"2014-06-17T12:04:15.080Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T12:05:44.143Z"}
+{"level":"error","message":"404","timestamp":"2014-06-17T12:05:46.350Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T12:08:26.696Z"}
+{"view":{"name":"/faq","root":"/var/www/wna.today/application/views","defaultEngine":"html","ext":".html"},"level":"error","message":"","timestamp":"2014-06-17T12:08:34.171Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/faq\" in views directory \"/var/www/wna.today/application/views\"","timestamp":"2014-06-17T12:08:34.172Z"}
+{"view":{"name":"/about","root":"/var/www/wna.today/application/views","defaultEngine":"html","ext":".html"},"level":"error","message":"","timestamp":"2014-06-17T12:10:52.912Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory \"/var/www/wna.today/application/views\"","timestamp":"2014-06-17T12:10:52.912Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T12:13:35.407Z"}
+{"view":{"name":"/faq","root":"/var/www/wna.today/application/views","defaultEngine":"html","ext":".html"},"level":"error","message":"","timestamp":"2014-06-17T12:13:44.287Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/faq\" in views directory \"/var/www/wna.today/application/views\"","timestamp":"2014-06-17T12:13:44.288Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T12:21:41.345Z"}
+{"view":{"name":"/faq","root":"/var/www/wna.today/application/views","defaultEngine":"html","ext":".html"},"level":"error","message":"","timestamp":"2014-06-17T12:21:45.598Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/faq\" in views directory \"/var/www/wna.today/application/views\"","timestamp":"2014-06-17T12:21:45.600Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T12:23:00.119Z"}
+{"view":{"name":"/faq","root":"/var/www/wna.today/application/views","defaultEngine":"html","ext":".html"},"level":"error","message":"","timestamp":"2014-06-17T12:23:02.482Z"}
+{"level":"error","message":"/var/www/wna.today/application/controllers/application/views","timestamp":"2014-06-17T12:23:02.484Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/faq\" in views directory \"/var/www/wna.today/application/views\"","timestamp":"2014-06-17T12:23:02.484Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T12:26:49.157Z"}
+{"view":{"name":"/faq","root":"/var/www/wna.today/application/views","defaultEngine":"html","ext":".html"},"level":"error","message":"","timestamp":"2014-06-17T12:26:52.393Z"}
+{"level":"error","message":"/var/www/wna.today/application/controllers/../../application/views","timestamp":"2014-06-17T12:26:52.394Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/faq\" in views directory \"/var/www/wna.today/application/views\"","timestamp":"2014-06-17T12:26:52.394Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T12:28:12.483Z"}
+{"view":{"name":"/faq","root":"/var/www/wna.today/application/views","defaultEngine":"html","ext":".html"},"level":"error","message":"","timestamp":"2014-06-17T12:28:14.096Z"}
+{"domain":null,"_events":{},"_maxListeners":10,"output":[],"outputEncodings":[],"writable":true,"_last":false,"chunkedEncoding":false,"shouldKeepAlive":false,"useChunkedEncodingByDefault":false,"sendDate":true,"_headerSent":false,"_header":"","_hasBody":true,"_trailer":"","finished":false,"_hangupClose":false,"socket":{"_connecting":false,"_handle":{"fd":12,"writeQueueSize":0,"owner":{"$ref":"$[\"socket\"]"},"reading":true},"_readableState":{"highWaterMark":16384,"buffer":[],"length":0,"pipes":null,"pipesCount":0,"flowing":false,"ended":false,"endEmitted":false,"reading":true,"calledRead":true,"sync":false,"needReadable":true,"emittedReadable":false,"readableListening":false,"objectMode":false,"defaultEncoding":"utf8","ranOut":false,"awaitDrain":0,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"domain":null,"_events":{"drain":[null,null],"close":[null,null]},"_maxListeners":10,"_writableState":{"highWaterMark":16384,"objectMode":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"sync":true,"bufferProcessing":false,"writecb":null,"writelen":0,"buffer":[],"errorEmitted":false},"writable":true,"allowHalfOpen":true,"destroyed":false,"bytesRead":417,"_bytesDispatched":0,"_pendingData":null,"_pendingEncoding":"","server":{"domain":null,"_events":{},"_maxListeners":10,"_connections":1,"connections":1,"_handle":{"fd":10,"writeQueueSize":0,"owner":{"$ref":"$[\"socket\"][\"server\"]"}},"_usingSlaves":false,"_slaves":[],"allowHalfOpen":true,"httpAllowHalfOpen":false,"timeout":120000,"_connectionKey":"4:0.0.0.0:8888"},"_idleTimeout":120000,"_idleNext":{"_idleNext":{"$ref":"$[\"socket\"]"},"_idlePrev":{"$ref":"$[\"socket\"]"}},"_idlePrev":{"$ref":"$[\"socket\"][\"_idleNext\"]"},"_idleStart":1403008094078,"parser":{"_headers":[],"_url":"","socket":{"$ref":"$[\"socket\"]"},"incoming":{"_readableState":{"highWaterMark":16384,"buffer":[],"length":0,"pipes":null,"pipesCount":0,"flowing":false,"ended":true,"endEmitted":false,"reading":false,"calledRead":false,"sync":true,"needReadable":false,"emittedReadable":false,"readableListening":false,"objectMode":false,"defaultEncoding":"utf8","ranOut":false,"awaitDrain":0,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"domain":null,"_events":{},"_maxListeners":10,"socket":{"$ref":"$[\"socket\"]"},"connection":{"$ref":"$[\"socket\"]"},"httpVersion":"1.0","complete":true,"headers":{"x-real-ip":"194.67.29.125","x-forwarded-for":"194.67.29.125","host":"wna.today","connection":"close","via":"1.1 VM-SRVTMG03","user-agent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36","cache-control":"max-age=0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-language":"ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"},"trailers":{},"_pendings":[],"_pendingIndex":0,"url":"/faq","method":"GET","statusCode":null,"client":{"$ref":"$[\"socket\"]"},"_consuming":false,"_dumped":false,"httpVersionMajor":1,"httpVersionMinor":0,"upgrade":false,"baseUrl":"","originalUrl":"/faq","_parsedUrl":{"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":null,"query":null,"pathname":"/faq","path":"/faq","href":"/faq"},"params":{},"query":{},"res":{"$ref":"$"},"route":{"path":{},"stack":[{"method":"get"}],"methods":{"get":true}}},"maxHeaderPairs":2000},"_paused":false,"_httpMessage":{"$ref":"$"}},"connection":{"$ref":"$[\"socket\"]"},"_headers":{"x-powered-by":"Express"},"_headerNames":{"x-powered-by":"X-Powered-By"},"req":{"$ref":"$[\"socket\"][\"parser\"][\"incoming\"]"},"locals":{},"statusCode":500,"level":"error","message":"","timestamp":"2014-06-17T12:28:14.103Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/faq\" in views directory \"/var/www/wna.today/application/views\"","timestamp":"2014-06-17T12:28:14.106Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T12:29:36.238Z"}
+{"view":{"name":"/faq","root":"/var/www/wna.today/application/views","defaultEngine":"html","ext":".html"},"level":"error","message":"","timestamp":"2014-06-17T12:29:37.575Z"}
+{"view":{"name":"/faq","root":"/var/www/wna.today/application/views","defaultEngine":"html","ext":".html"},"level":"error","message":"","timestamp":"2014-06-17T12:29:37.576Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/faq\" in views directory \"/var/www/wna.today/application/views\"","timestamp":"2014-06-17T12:29:37.576Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T12:30:27.332Z"}
+{"view":{"name":"/faq","root":"/var/www/wna.today/application/views","defaultEngine":"html","ext":".html"},"level":"error","message":"","timestamp":"2014-06-17T12:30:28.880Z"}
+{"level":"error","message":"undefined","timestamp":"2014-06-17T12:30:28.882Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/faq\" in views directory \"/var/www/wna.today/application/views\"","timestamp":"2014-06-17T12:30:28.882Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T12:32:59.737Z"}
+{"view":{"name":"/faq","root":"/var/www/wna.today/application/views","defaultEngine":"html","ext":".html"},"level":"error","message":"","timestamp":"2014-06-17T12:33:02.630Z"}
+{"level":"error","message":"undefined","timestamp":"2014-06-17T12:33:02.632Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/faq\" in views directory \"/var/www/wna.today/application/views\"","timestamp":"2014-06-17T12:33:02.632Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T12:33:35.639Z"}
+{"view":{"name":"/faq","root":"/var/www/wna.today/application/views","defaultEngine":"html","ext":".html"},"level":"error","message":"","timestamp":"2014-06-17T12:33:37.038Z"}
+{"level":"error","message":"Error","timestamp":"2014-06-17T12:33:37.039Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/faq\" in views directory \"/var/www/wna.today/application/views\"","timestamp":"2014-06-17T12:33:37.039Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T12:34:03.193Z"}
+{"view":{"name":"/faq","root":"/var/www/wna.today/application/views","defaultEngine":"html","ext":".html"},"level":"error","message":"","timestamp":"2014-06-17T12:34:04.603Z"}
+{"level":"error","message":"undefined","timestamp":"2014-06-17T12:34:04.604Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/faq\" in views directory \"/var/www/wna.today/application/views\"","timestamp":"2014-06-17T12:34:04.605Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T12:34:50.973Z"}
+{"view":{"name":"/faq","root":"/var/www/wna.today/application/views","defaultEngine":"html","ext":".html"},"level":"error","message":"","timestamp":"2014-06-17T12:34:52.440Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/faq\" in views directory \"/var/www/wna.today/application/views\"","timestamp":"2014-06-17T12:34:52.455Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T12:36:11.746Z"}
+{"view":{"name":"/faq","root":"/var/www/wna.today/application/views","defaultEngine":"html","ext":".html"},"level":"error","message":"","timestamp":"2014-06-17T12:36:13.736Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/faq\" in views directory \"/var/www/wna.today/application/views\"","timestamp":"2014-06-17T12:36:13.742Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T12:37:07.566Z"}
+{"view":{"name":"/faq","root":"/var/www/wna.today/application/views","defaultEngine":"html","ext":".html"},"level":"error","message":"","timestamp":"2014-06-17T12:37:08.899Z"}
+{"level":"error","message":"/var/www/wna.today/application/views","timestamp":"2014-06-17T12:37:08.900Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/faq\" in views directory \"/var/www/wna.today/application/views\"","timestamp":"2014-06-17T12:37:08.903Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T12:38:39.837Z"}
+{"view":{"name":"/faq","root":"/var/www/wna.today/application/views","defaultEngine":"html","ext":".html"},"level":"error","message":"","timestamp":"2014-06-17T12:38:43.826Z"}
+{"level":"error","message":"/var/www/wna.today/application/views","timestamp":"2014-06-17T12:38:43.827Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/faq\" in views directory \"\"","timestamp":"2014-06-17T12:38:43.831Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T12:39:39.147Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/faq\" in views directory ","timestamp":"2014-06-17T12:39:40.975Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T12:43:40.708Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/faq\" in views directory ","timestamp":"2014-06-17T12:43:48.502Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T13:21:03.298Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/faq\" in views directory ","timestamp":"2014-06-17T13:21:10.723Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T14:42:27.445Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T14:42:32.515Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T14:42:37.486Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T14:42:42.490Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T14:42:47.537Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T14:42:52.454Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T14:42:57.585Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T14:43:07.885Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T14:43:20.893Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T14:44:10.361Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-17T14:44:18.101Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T14:45:30.098Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-17T14:45:47.093Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-17T14:45:49.054Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-17T14:45:50.588Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-17T14:45:51.987Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-17T16:18:43.718Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-17T16:18:46.693Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-17T16:20:11.820Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-17T17:39:15.258Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-18T06:29:28.558Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/manager\" in views directory ","timestamp":"2014-06-18T11:25:47.191Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/no\" in views directory ","timestamp":"2014-06-18T19:04:25.426Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/no\" in views directory ","timestamp":"2014-06-18T19:04:29.958Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/index\" in views directory ","timestamp":"2014-06-18T19:04:40.904Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/index\" in views directory ","timestamp":"2014-06-18T19:06:33.010Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/index\" in views directory ","timestamp":"2014-06-18T19:06:44.960Z"}
+{"level":"info","message":"wna.today started on port 8888","timestamp":"2014-06-18T19:10:05.316Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-18T19:43:53.893Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-18T19:46:55.862Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-18T19:47:01.628Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-18T19:47:04.501Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-18T19:54:06.337Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-18T20:01:36.003Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-18T20:17:38.534Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-18T20:18:05.255Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-18T20:18:14.254Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-18T20:21:24.085Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-18T20:21:34.839Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-18T22:26:26.524Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/render\" in views directory ","timestamp":"2014-06-18T22:28:00.817Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-18T23:30:35.450Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-19T04:10:28.862Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-19T04:10:32.077Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-19T12:55:05.811Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-19T14:04:04.530Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-19T14:04:54.844Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/faq\" in views directory ","timestamp":"2014-06-19T14:05:03.290Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-19T15:08:47.986Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T14:00:00.530Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T14:01:38.134Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T14:03:45.465Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T14:04:53.878Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T14:05:32.725Z"}
+{"level":"info","message":"/wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T14:10:31.360Z"}
+{"level":"info","message":"/wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T14:12:20.558Z"}
+{"level":"info","message":"/wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T14:12:52.162Z"}
+{"level":"info","message":"/wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T14:13:53.494Z"}
+{"level":"info","message":"/wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T14:14:25.767Z"}
+{"level":"info","message":"/wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T14:17:58.637Z"}
+{"level":"info","message":"/wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T14:19:03.083Z"}
+{"level":"info","message":"/wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T14:37:45.224Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T14:38:59.949Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T14:39:41.601Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T14:40:23.028Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"index\" in views directory ","timestamp":"2014-06-23T14:40:25.165Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T14:42:25.524Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T14:45:20.148Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"index\" in views directory ","timestamp":"2014-06-23T14:45:23.251Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T14:47:09.351Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"index\" in views directory ","timestamp":"2014-06-23T14:47:11.155Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T14:52:04.516Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"index\" in views directory ","timestamp":"2014-06-23T14:52:07.096Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T14:56:25.769Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T14:59:01.291Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T15:00:03.932Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T15:03:13.428Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T15:06:04.332Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T15:06:23.974Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T15:10:57.979Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T15:14:21.434Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T15:15:00.447Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T15:16:30.542Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T15:16:52.815Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T15:18:56.817Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T15:19:23.584Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T15:20:32.119Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T15:20:52.655Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T15:23:49.606Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T15:25:06.931Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T15:25:37.175Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T15:27:09.012Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T15:39:40.626Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T15:43:47.983Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T18:59:58.277Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T19:02:38.902Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-23T19:03:01.424Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-23T19:05:29.629Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-23T19:05:41.180Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T19:18:14.144Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-23T19:18:23.437Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-23T19:18:47.538Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-23T19:19:15.527Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-23T19:19:19.814Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-06-23T19:22:34.708Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-23T19:22:45.166Z"}
+{"level":"error","message":"Internal error(500): Failed to lookup view \"/about\" in views directory ","timestamp":"2014-06-23T19:22:48.025Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-07-01T09:37:49.645Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-07-01T10:48:56.105Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-07-01T10:49:22.507Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-07-01T10:52:48.894Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-07-01T10:53:35.727Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-07-01T11:07:47.744Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-07-01T11:12:08.011Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-07-01T11:58:57.535Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-07-01T12:39:17.851Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-07-01T12:41:37.702Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-07-01T12:54:59.979Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-07-01T12:56:32.513Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-07-01T13:00:47.044Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-07-04T12:02:08.000Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-07-09T10:34:23.266Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-07-09T10:39:20.964Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-07-09T10:40:32.582Z"}
+{"level":"info","message":"wna.today started on port /tmp/wna.today.socket","timestamp":"2014-07-09T10:50:27.842Z"}
+{"level":"info","message":"wsrs2181.rs.ru started on port /tmp/wna.today.socket","timestamp":"2014-07-09T10:54:05.498Z"}
+{"level":"info","message":"wsrs2181.rs.ru started on port /tmp/wna.today.socket","timestamp":"2014-07-09T10:57:30.460Z"}
+{"level":"info","message":"wsrs2181.rs.ru started on port /tmp/wna.today.socket","timestamp":"2014-07-09T10:59:02.246Z"}
+{"level":"info","message":"wsrs2181.rs.ru started on port /tmp/wna.today.socket","timestamp":"2014-07-09T11:00:19.757Z"}
+{"level":"info","message":"wsrs2181.rs.ru started on port /tmp/wna.today.socket","timestamp":"2014-07-09T11:04:42.517Z"}
+{"level":"info","message":"wsrs2181.rs.ru started on port /tmp/wna.today.socket","timestamp":"2014-07-09T11:08:07.196Z"}
+{"level":"info","message":"wsrs2181.rs.ru started on port /tmp/wna.today.socket","timestamp":"2014-07-09T12:56:19.504Z"}
