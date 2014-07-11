@@ -50,8 +50,8 @@ var ServerModel = new Class({
 
 		this.models = this.folder(this.framework['models']);
 		this.controllers = this.folder(this.framework['controllers']);
-                this.views = this.folder(this.framework['views']);
-                this.public = this.folder(this.framework['public']);
+        this.views = this.folder(this.framework['views']);
+        this.public = this.folder(this.framework['public']);
 
 		this.model = this.file(this.models + this.page + 'Model');
 		this.controller = this.file(this.controllers + this.page + 'Controller');
@@ -63,7 +63,7 @@ var ServerModel = new Class({
 	},
 	file: function(file) {
 		var obj = false;
-		var file = file + '.js';
+		file = file + '.js';
 		if (this.fs.existsSync(this.application + file)) {
 			obj = require(this.application + file);
 		} else if (this.fs.existsSync(this.docroot + file)) {
@@ -71,44 +71,19 @@ var ServerModel = new Class({
 		}
 		return obj;
 	},
-	route: function(url) {
-		var _this = this;
-		_this.app.route(url)
-		.all(function(req, res, next) {
-			next();
-		})
-		.get(function(req, res, next) {
-			_this.url(req); console.log(_this.views);
-		        _this.app.set('views', _this.views);
-		        _this.app.use(_this.express.static(_this.public));
-	                
-			_this.app.use(function(req, res, next){
-               		        error(req, res, '404', _this.log, next);
-	                        return;
-	                });
-
-                	_this.app.use(function(err, req, res, next) {
-				error(req, res, err, _this.log, next);
-	                        return;
-	                });
-
-                	res.render( _this.page , {} );
-		})
-		return this;
-	},
 	listen: function() {
 		var _this = this;
         	for(var a in _this.applications) {
-	                if(_this.applications.hasOwnProperty(a)) {
-				_this.port = _this.applications[a]['port'];
-        	                _this.fs.stat(_this.port, function(err) {
-                	                if (!err) { _this.fs.unlinkSync( _this.port ); }
-                        		_this.app.listen(_this.port, function() {
-                                        	_this.fs.chmodSync( _this.port, '777');
-	                                        _this.log.info(a + ' started on port ' + _this.port);
-        	                        });
-                	        });
-                	}
+                if(_this.applications.hasOwnProperty(a)) {
+                    _this.port = _this.applications[a]['port'];
+                    _this.fs.stat(_this.port, function(err) {
+                        if (!err) { _this.fs.unlinkSync( _this.port ); }
+                        _this.app.listen(_this.port, function() {
+                            _this.fs.chmodSync( _this.port, '777');
+                            _this.log.info(a + ' started on port ' + _this.port);
+                        });
+                    });
+                }
         	}
 	}
 })
