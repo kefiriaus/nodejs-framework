@@ -11,7 +11,7 @@
 		}
 	},
 	"framework" : {
-		"docroot" : "/var/www/nodejs",
+		"docroot" : "/var/www/nodejs-framework",
 		"apps" : "/apps",
 		"models" : "/framework/models",
 		"views" : "/framework/views",
