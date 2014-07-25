@@ -1,10 +1,6 @@
 {
 	"apps" : {
-<<<<<<< HEAD
 		"10.1.2.3" : {
-=======
-		"wna.today" : {
->>>>>>> master
 			"server" : "/wna.today",
 			"port" : "/tmp/wna.today.socket",
 		        "db" : {
@@ -15,11 +11,7 @@
 		}
 	},
 	"framework" : {
-<<<<<<< HEAD
 		"docroot" : "/var/www/public_html/nodejs-framework",
-=======
-		"docroot" : "/var/www/nodejs",
->>>>>>> master
 		"apps" : "/apps",
 		"models" : "/framework/models",
 		"views" : "/framework/views",
