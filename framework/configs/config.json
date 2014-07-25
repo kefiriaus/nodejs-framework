@@ -1,0 +1,30 @@
+{
+	"apps" : {
+		"10.1.2.3" : {
+			"server" : "/wna.today",
+			"port" : "/tmp/wna.today.socket",
+		        "db" : {
+                		"mongodb" : {
+                        		"uri" : "mongodb://localhost/wna"
+                		}
+        		}
+		}
+	},
+	"framework" : {
+		"docroot" : "/var/www/public_html/nodejs-framework",
+		"apps" : "/apps",
+		"models" : "/framework/models",
+		"views" : "/framework/views",
+		"controllers" : "/framework/controllers",
+		"public" : "/public",
+		"styles" : "/public/css",
+		"scripts" : "/public/js",
+		"images" : "/public/images"
+	},
+        "log" : {
+		"level" : "debug",
+                "file" : "./data/logs/main.log",
+                "maxsize" : 2097152,
+               	"maxfiles" : 10
+	}
+}
