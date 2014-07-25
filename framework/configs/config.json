@@ -1,6 +1,6 @@
 {
 	"apps" : {
-		"10.1.2.3" : {
+		"wna.today" : {
 			"server" : "/wna.today",
 			"port" : "/tmp/wna.today.socket",
 		        "db" : {
@@ -11,7 +11,7 @@
 		}
 	},
 	"framework" : {
-		"docroot" : "/var/www/public_html/nodejs-framework",
+		"docroot" : "/var/www/nodejs-framework",
 		"apps" : "/apps",
 		"models" : "/framework/models",
 		"views" : "/framework/views",
