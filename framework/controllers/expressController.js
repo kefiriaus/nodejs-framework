@@ -13,7 +13,7 @@ var ServerController = new Class({
             })
             .get(function(req, res, next) {
                 _this.url(req);
-                _this.app.set('views', _this.views); console.log(_this.views);
+                _this.app.set('views', _this.views);
                 _this.app.use(_this.express.static(_this.public));
 
                 _this.errors();
