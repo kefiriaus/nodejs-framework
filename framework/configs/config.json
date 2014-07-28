@@ -11,7 +11,7 @@
 		}
 	},
 	"framework" : {
-		"docroot" : "/home/bitrix/ext_www/node.js",
+		"docroot" : "/var/www/public_html/nodejs-framework",
 		"apps" : "/apps",
 		"models" : "/framework/models",
 		"views" : "/framework/views",
