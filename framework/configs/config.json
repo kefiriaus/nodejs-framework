@@ -1,6 +1,6 @@
 {
 	"apps" : {
-		"10.1.2.3" : {
+		"wsrs2181.rs.ru" : {
 			"server" : "/wna.today",
 			"port" : "/tmp/wna.today.socket",
 		        "db" : {
